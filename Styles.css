@@ -1,0 +1,128 @@
+.heading{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+    font-family:sans-serif;
+    padding-bottom: 10px;
+}
+#register1{
+    background-color: white;
+    width: 350px;
+    padding:24px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    border-radius: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#input{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.input-label{
+    margin:0;
+    margin-top:15px;
+    margin-bottom:3px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.Submit-button{
+    width:100%;
+    background-color: rgb(26, 86, 154);
+    border-radius: 6px;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 15px;
+}
+.input-item{
+    width:100%;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#terms-check{
+    margin-top:12px;
+    margin-bottom: 30px;
+}
+.text{
+    text-align: center;
+    margin-top: 12px;
+    padding-top: 10px;
+}
+#login{
+    text-decoration: none;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.container{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:20px;
+    padding-bottom: 60px;
+ }
+ 
+ .container .content{
+    text-align: center;
+ }
+ 
+ .container .content h3{
+    font-size: 30px;
+    color:#333;
+ }
+ 
+ .container .content h3 span{
+    background: rgb(26, 86, 154);
+    color:#fff;
+    border-radius: 5px;
+    padding:0 15px;
+ }
+ 
+ .container .content h1{
+    font-size: 50px;
+    color:#333;
+ }
+ 
+ .container .content p{
+    font-size: 25px;
+    margin-bottom: 20px;
+ }
+ 
+ .container .content .btn{
+    display: inline-block;
+    padding:10px 30px;
+    font-size: 20px;
+    background: rgb(26, 86, 154);
+    color:#fff;
+    margin:0 5px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    border-width: 1px;
+ }
+ 
+ .container .content .btn:hover{
+    background: rgb(71, 119, 213);
+ }
+ #register{
+    background-color: white;
+    width: 650px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 25px;
+    /* padding-top: 0px;
+    padding-bottom: 0px; */
+}
