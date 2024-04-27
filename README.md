@@ -1,4 +1,4 @@
-# XeonStack_technicalTask2<br>
+# Task<br>
 1.Design Minimum 3 Pages as per Theme of your choice.
 <br>
 2. Create a Login and Logout flow which will be connected with Database(MYSQL)
